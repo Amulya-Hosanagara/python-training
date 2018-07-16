@@ -1,0 +1,3 @@
+example programs :
+1. any sorting program (bubblesort, selction sort)
+2. implement stack class (define push, pop)
