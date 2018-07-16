@@ -1,3 +1,4 @@
 example programs :
 1. any sorting program (bubblesort, selction sort)
-2. implement stack class (define push, pop)
+2. implement stack class (define push, pop, tos)
+3. strings, list, dictionaries and tuple, class&inheritance concepts in think python
